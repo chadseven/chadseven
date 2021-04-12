@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @chadseven
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning Python
-- 📫 How to reach me somewhere in space
+- 📫 How to reach me -> somewhere in space
 
 <!---
 chadseven/chadseven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
