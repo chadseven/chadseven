@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chadseven
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me somewhere in space
 
 <!---
